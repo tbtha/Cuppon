@@ -2,13 +2,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.img-logo{
+.img-nav{
     height: 30px;
 }
 .card-title{
     color: #212529;
 }
-.card-text{
+.card-text , footer{
     color: #707070;
 }
 .subt-title{
@@ -16,5 +16,11 @@ body{
 }
 .ubic{
     font-size: 13px;
+}
+.form{
+    font-size: 21px;
+}
+.img-footer{
+    height: 25px;
 }
 
